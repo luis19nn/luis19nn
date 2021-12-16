@@ -4,25 +4,27 @@
     <a target="_blank" href="https://www.linkedin.com/in/luis19nn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
     <a href="mailto:luis19nn@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <h4>
-        Desenvolvedor Fullstack
+        :trophy: Desenvolvedor Fullstack
     </h4>
-    <p> Desenvolvo desde 2019, trabalho com o que amo. </p>
-    <p> Para mim não importa a linguagem, importa o resultado desejado, tecnologias são ferramentas e devemos aprender a lidar com elas e dominá-las da melhor forma possivel.</p>
-    <p> Sou estudante do curso de análise e desenvolvimento de sistemas na UFPR - Universidade Federal do Paraná </p>
-    <p> Sou apaixonado por tecnologia, não há bug que não possa ser resolvido com uma boa caneca de café e uma meia hora de estudos.</p>
+    <p> Sou uma pessoa apaixonada por tecnologia. </p>
+    <p> Não há nada que me motive mais que um bom desafio e algo difícil para resolver. </p>
+    <p> Sou estudante do curso de Análise e Desenvolvimento de Sistemas na UFPR - Universidade Federal do Paraná. </p>
+    <p> Aprendo rápido e estou sempre disposto a evoluir cada vez mais, pois quando se trata de tecnologia não há limite para o meu interesse. </p>
     
 <hr>
-
+    
+### :zap: Meus Status no GitHub
+<br>
 <div>
   <a href="https://github.com/luis19nn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis19nn&show_icons=true&theme=vue&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis19nn&layout=compact&langs_count=10&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis19nn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis19nn&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
     
 <hr>
 
-### Minhas linguagens e tecnologias:
+### :rocket: Minhas linguagens e tecnologias
 <br>
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -56,7 +58,7 @@
 </div>
 
 <details>
-    <summary>Um "pouco" sobre minha carreira:</summary>
+    <summary>Um pouco sobre minha "carreira":</summary>
     <br>
     <p>Iniciei na área da programação em 2019, quando passei no curso de ADS, já hávia tentado a sorte em desenvolvimento de jogos, com java e C#, e feito um projeto de ensino médio utilizando arduino para alimentar uma bobina de tesla que tocava musicas, mas nada que chegasse perto do mundo que se abriu em minha frente naquele ano, e que ano louco foi aquele.</p>
     <p>Comecei aprendendo o Pascal, sempre ouço reclamação de quem estava comigo na sala, aprendendo uma linguagem "tão defasada", muitos até hoje se queixam que queriam ter aprendido python, js, ou alguma outra linguagem que seja mais atual, nunca vou entender essa sensação, Pascal foi por quase 20 anos uma das linguagens mais utilizadas no mundo, ele funciona, faz o que se espera que faça, e já foi util pra caramba para muita gente, e desde esse ponto, para mim, o que me importa não é a linguagem, mas sim os problemas que ela pode resolver, se eu não souber uma linguagem, e ela tiver uma lógica diferente de tudo aquilo que conheço, meu impeto é estudar, até que a domine.</p>
