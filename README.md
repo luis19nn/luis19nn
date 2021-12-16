@@ -17,6 +17,7 @@
   <a href="https://github.com/luis19nn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis19nn&show_icons=true&theme=vue&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis19nn&layout=compact&langs_count=10&theme=vue"/>
+  </a>
 </div>
     
 <hr>
