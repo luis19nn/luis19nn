@@ -4,7 +4,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/luis19nn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
     <a href="mailto:luis19nn@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <h4>
-        :trophy: Desenvolvedor Fullstack
+        :trophy: Desenvolvedor Front-End/Mobile Júnior
     </h4>
     <p> Sou uma pessoa apaixonada por tecnologia. </p>
     <p> Não há nada que me motive mais que um bom desafio e algo difícil para resolver. </p>
