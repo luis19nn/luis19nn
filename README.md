@@ -1,7 +1,9 @@
 <div align="center">
+    <!--   -->
     <h1>Olá 👋, meu nome é Luis</h1>
     <a target="_blank" href="https://api.whatsapp.com/send?phone=5541998017981&text=Ol%C3%A1%20Luis%2C%20vim%20pelo%20seu%20github"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
     <a target="_blank" href="https://www.linkedin.com/in/luis19nn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+    <a target="_blank" href="https://www.instagram.com/uiuxluis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
     <a href="mailto:luis19nn@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <h4>
         :trophy: Desenvolvedor Front-End Júnior
