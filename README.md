@@ -6,7 +6,7 @@
     <a target="_blank" href="https://www.instagram.com/uiuxluis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
     <a href="mailto:luis19nn@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <h4>
-        :trophy: Desenvolvedor Front-End Júnior
+        :trophy: Estagiário FullStack
     </h4>
     <p> Sou uma pessoa apaixonada por tecnologia. </p>
     <p> Não há nada que me motive mais que um bom desafio e algo difícil para resolver. </p>
