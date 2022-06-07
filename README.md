@@ -6,7 +6,7 @@
     <a target="_blank" href="https://www.instagram.com/uiuxluis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
     <a href="mailto:luis19nn@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <h4>
-        :trophy: Estagiário FullStack
+        :trophy: Estagiário de Desenvolvimento de Software
     </h4>
     <p> Sou uma pessoa apaixonada por tecnologia. </p>
     <p> Não há nada que me motive mais que um bom desafio e algo difícil para resolver. </p>
@@ -66,7 +66,7 @@
     <br>
     <p>Eu comecei na área em 2019, quando entrei para a UFPR, e escolhi esta área por parecer difícil e por gostar muito de tecnologia. Desde criança eu me animo e me interesso mais por assuntos considerados mais difíceis, como na escola, onde eu prestava muito mais atenção nas aulas quando ouvia alguém reclamando do conteúdo. Sempre pensei "se é difícil, eu preciso saber, preciso aprender".</p>
     <p>Além disso, sempre gostei de ajudar os outros ao meu redor, seja esclarecendo dúvidas sobre os conteúdos antes de uma prova, ou fazendo além da minha parte nos trabalhos. Minha filosofia é a de que devíamos todos nos auxiliar, nos ajudar mais e sermos mais altruístas, e uma das coisas que me faz amar tecnologia é a possibilidade de ajudar o próximo com ela. Por meio de aplicativos que facilitem a vida, sites com ótimas experiências de usuário que possibilitam uma navegação sem estresse para um consumidor apressado, ou até mesmo automatizar tarefas repetitivas para que possamos nos focar nas coisas realmente importantes.</p>
-    <p>Para conquistar meus objetivos, eu havia decidido, em 2019, começar a trabalhar na área em 2020, quando estivesse no terceiro período do curso e mais apto, porém a pandemia chegou e não pude concluir meus objetivos. Desde 2020, venho estudando e aprendendo mais, tanto na área de tecnologia quanto sobre mim mesmo.</p>
+    <p>Em 2022 comecei meu primeiro estágio na área, e venho aprendendo muito sobre como funciona uma empresa de tecnologia, como é o dia a dia e as entregas de tarefas, e, principalmente, aprendo sobre tecnologia na prática e com profundidade. Utilizo tecnologias como Python, Django, Docker, GraphQL, REST, Microsserviços, JavaScript, HTML, CSS e tantas outras diariamente.</p>
     <p>Portanto, hoje tenho a confiança de que quero seguir uma carreira de desenvolvimento de software para impactar positivamente nossa sociedade, mesmo que em pequena escala, lidando com desafios diários e trabalhando para crescer profissionalmente enquanto auxilio aqueles ao meu redor e, também, enquanto peço ajuda para aqueles mais experientes, pois ninguém pode fazer tudo sozinho.</p>
 </details>
 
