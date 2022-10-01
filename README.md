@@ -65,7 +65,7 @@
 </div>
 
 <details>
-    <summary>Um pouco sobre minha "carreira":</summary>
+    <summary>Um pouco sobre mim:</summary>
     <br>
     <p>Eu comecei na área em 2019, quando entrei para a UFPR, e escolhi esta área por parecer difícil e por gostar muito de tecnologia. Desde criança eu me animo e me interesso mais por assuntos considerados mais difíceis, como na escola, onde eu prestava muito mais atenção nas aulas quando ouvia alguém reclamando do conteúdo. Sempre pensei "se é difícil, eu preciso saber, preciso aprender".</p>
     <p>Além disso, sempre gostei de ajudar os outros ao meu redor, seja esclarecendo dúvidas sobre os conteúdos antes de uma prova, ou fazendo além da minha parte nos trabalhos. Minha filosofia é a de que devíamos todos nos auxiliar, nos ajudar mais e sermos mais altruístas, e uma das coisas que me faz amar tecnologia é a possibilidade de ajudar o próximo com ela. Por meio de aplicativos que facilitem a vida, sites com ótimas experiências de usuário que possibilitam uma navegação sem estresse para um consumidor apressado, ou até mesmo automatizar tarefas repetitivas para que possamos nos focar nas coisas realmente importantes.</p>
