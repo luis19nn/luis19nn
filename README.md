@@ -40,6 +40,7 @@
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -69,7 +70,7 @@
     <br>
     <p>Eu comecei na área em 2019, quando entrei para a UFPR, e escolhi esta área por parecer difícil e por gostar muito de tecnologia. Desde criança eu me animo e me interesso mais por assuntos considerados mais difíceis, como na escola, onde eu prestava muito mais atenção nas aulas quando ouvia alguém reclamando do conteúdo. Sempre pensei "se é difícil, eu preciso saber, preciso aprender".</p>
     <p>Além disso, sempre gostei de ajudar os outros ao meu redor, seja esclarecendo dúvidas sobre os conteúdos antes de uma prova, ou fazendo além da minha parte nos trabalhos. Minha filosofia é a de que devíamos todos nos auxiliar, nos ajudar mais e sermos mais altruístas, e uma das coisas que me faz amar tecnologia é a possibilidade de ajudar o próximo com ela. Por meio de aplicativos que facilitem a vida, sites com ótimas experiências de usuário que possibilitam uma navegação sem estresse para um consumidor apressado, ou até mesmo automatizar tarefas repetitivas para que possamos nos focar nas coisas realmente importantes.</p>
-    <p>Em 2022 comecei meu primeiro estágio na área, e venho aprendendo muito sobre como funciona uma empresa de tecnologia, como é o dia a dia e as entregas de tarefas, e, principalmente, aprendo sobre tecnologia na prática e com profundidade. Utilizo tecnologias como Python, Django, Docker, GraphQL, REST, Microsserviços, JavaScript, HTML, CSS e tantas outras diariamente.</p>
+    <p>Em 2022 comecei meu primeiro estágio na área, e venho aprendendo muito sobre como funciona uma empresa de tecnologia, como é o dia a dia e as entregas de tarefas, e, principalmente, aprendo sobre tecnologia na prática e com profundidade. Utilizo tecnologias como Python, Django, Docker, GraphQL, REST, Microsserviços, JavaScript, HTML, CSS e tantas outras diariamente no trabalho. Na faculdade, aprendo sobre Java, Spring, JPA, Hibernate, Design Patterns e muito mais.</p>
     <p>Portanto, hoje tenho a confiança de que quero seguir uma carreira de desenvolvimento de software para impactar positivamente nossa sociedade, mesmo que em pequena escala, lidando com desafios diários e trabalhando para crescer profissionalmente enquanto auxilio aqueles ao meu redor e, também, enquanto peço ajuda para aqueles mais experientes, pois ninguém pode fazer tudo sozinho.</p>
 </details>
 
