@@ -1,18 +1,17 @@
 <div align="center">
     <!--   -->
-    <h1>Olá 👋, meu nome é Luis</h1>
-    <a target="_blank" href="https://api.whatsapp.com/send?phone=5541998017981&text=Ol%C3%A1%20Luis%2C%20vim%20pelo%20seu%20github"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
+    <h1>Hello 👋, my name is Luis</h1>
+    <a target="_blank" href="https://api.whatsapp.com/send?phone=5541998017981&text=Hello%20Luis,%20I%20came%20from%20your%20github"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
     <a target="_blank" href="https://www.linkedin.com/in/luis19nn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
     <a target="_blank" href="https://www.instagram.com/uiuxluis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
     <a href="mailto:luis19nn@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <h4>
-        :trophy: Desenvolvedor FullStack
+        :trophy: FullStack Developer
     </h4>
-    <p> Sou uma pessoa apaixonada por tecnologia. </p>
-    <p> Não há nada que me motive mais que um bom desafio e algo difícil para resolver. </p>
-    <p> Sou estudante do curso de Análise e Desenvolvimento de Sistemas na UFPR - Universidade Federal do Paraná. </p>
-    <p> Aprendo rápido e estou sempre disposto a evoluir cada vez mais, pois quando se trata de tecnologia não há limite para o meu interesse. </p>
-    
+    <p> I am a technology enthusiast. </p>
+    <p> There's nothing that motivates me more than a good challenge and something difficult to solve. </p>
+    <p> I am a student of the Analysis and Systems Development course at UFPR - Federal University of Paraná. </p>
+    <p> I learn fast and I am always willing to evolve more and more, because when it comes to technology there is no limit to my interest. </p>
 <hr>
 
 ### :rocket: Minhas linguagens e tecnologias
@@ -55,12 +54,12 @@
 </div>
 
 <details>
-    <summary>Um pouco sobre mim:</summary>
+    <summary>A little about me:</summary>
     <br>
-    <p>Eu comecei na área em 2019, quando entrei para a UFPR, e escolhi esta área por parecer difícil e por gostar muito de tecnologia. Desde criança eu me animo e me interesso mais por assuntos considerados mais difíceis, como na escola, onde eu prestava muito mais atenção nas aulas quando ouvia alguém reclamando do conteúdo. Sempre pensei "se é difícil, eu preciso saber, preciso aprender".</p>
-    <p>Além disso, sempre gostei de ajudar os outros ao meu redor, seja esclarecendo dúvidas sobre os conteúdos antes de uma prova, ou fazendo além da minha parte nos trabalhos. Minha filosofia é a de que devíamos todos nos auxiliar, nos ajudar mais e sermos mais altruístas, e uma das coisas que me faz amar tecnologia é a possibilidade de ajudar o próximo com ela. Por meio de aplicativos que facilitem a vida, sites com ótimas experiências de usuário que possibilitam uma navegação sem estresse para um consumidor apressado, ou até mesmo automatizar tarefas repetitivas para que possamos nos focar nas coisas realmente importantes.</p>
-    <p>Em 2022 comecei minha primeira experiência na área, e venho aprendendo muito sobre como funciona uma empresa de tecnologia, como é o dia a dia e as entregas de tarefas, e, principalmente, aprendo sobre tecnologia na prática e com profundidade. Utilizo tecnologias como Python, Django, MySQL, PostgreSQL, Redis, Mongo, Docker, GraphQL, REST, Microsserviços, JavaScript, HTML, CSS e tantas outras diariamente no trabalho. Na faculdade, aprendo sobre Java, Spring, JPA, Hibernate, Design Patterns, Estruturas de Dados, Bancos de Dados e muito mais.</p>
-    <p>Portanto, hoje tenho a confiança de que quero seguir uma carreira de desenvolvimento de software para impactar positivamente nossa sociedade, mesmo que em pequena escala, lidando com desafios diários e trabalhando para crescer profissionalmente enquanto auxilio aqueles ao meu redor e, também, enquanto peço ajuda para aqueles mais experientes, pois ninguém pode fazer tudo sozinho.</p>
+    <p>I started in the field in 2019 when I joined UFPR, and I chose this area because it seemed difficult and because I love technology. Since I was a child, I have been more excited and interested in subjects considered more difficult, such as in school, where I paid much more attention in classes when I heard someone complaining about the content. I always thought "if it's difficult, I need to know, I need to learn."</p>
+    <p>In addition, I have always enjoyed helping others around me, whether by clarifying doubts about the content before a test, or by going beyond my part in the assignments. My philosophy is that we should all assist each other, help each other more, and be more altruistic, and one of the things that makes me love technology is the possibility of helping others with it. Through apps that make life easier, websites with great user experiences that enable stress-free navigation for a busy consumer, or even automating repetitive tasks so that we can focus on the really important things.</p>
+    <p>In 2022, I started my first experience in the field, and I have been learning a lot about how a technology company works, what the day-to-day and task delivery is like, and, mainly, I learn about technology in practice and in depth. I use technologies like Python, Django, MySQL, PostgreSQL, Redis, Mongo, Docker, GraphQL, REST, Microservices, JavaScript, HTML, CSS, and many others daily at work. In college, I learn about Java, Spring, JPA, Hibernate, Design Patterns, Data Structures, Databases, and much more.</p>
+    <p>Therefore, today I have the confidence that I want to pursue a career in software development to positively impact our society, even if on a small scale, dealing with daily challenges and working to grow professionally while assisting those around me and also while asking for help from more experienced individuals because no one can do everything alone.</p>
 </details>
 
 <hr>
